@@ -85,4 +85,4 @@ A functional application that allows users to add, update, delete, and display s
 
 ## 👨‍💻 Author
 
-Developed by **ARULSELVAN** as part of the Thiranex Internship Program.
+Developed by "Salvin Mario S" as part of the Thiranex Internship Program.
